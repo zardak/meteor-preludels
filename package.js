@@ -1,7 +1,7 @@
 Package.describe({
   name: 'zardak:preludels',
   version: '0.1.0',
-  summary: 'prelude.ls is a functionally oriented utility library. It is written in, and is the recommended base library for, LiveScript.',
+  summary: 'prelude.ls is a functionally oriented utility library, recommended for LiveScript',
   git: 'https://github.com/zardak/meteor-preludels'
 });
 
